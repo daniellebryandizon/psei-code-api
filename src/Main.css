@@ -1,0 +1,26 @@
+.search-container{
+    margin-top: 300px;
+    text-align: center;
+}
+
+.search-box {
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+}
+
+.item-list{
+    width: 100%;
+}
+
+.break{
+    margin-top: 10px;
+}
+
+.search-results {
+
+}
+
