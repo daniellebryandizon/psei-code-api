@@ -1,5 +1,5 @@
 .search-container{
-    margin-top: 300px;
+    margin-top: 40px;
     text-align: center;
 }
 
@@ -9,7 +9,10 @@
     bottom: 0;
     left: 0;
     right: 0;
-    
+}
+
+.search-results{
+    margin-top: 20px;
 }
 
 .item-list{
@@ -20,7 +23,17 @@
     margin-top: 10px;
 }
 
-.search-results {
-
+.pagination {
+    margin: 0 auto;
+    width: 30%;
+    text-align:center;
 }
 
+.MuiPaginationItem-page.Mui-selected {
+    background-color: #80cbc4 !important;
+}
+
+
+.loading {
+    text-align: center;
+}
